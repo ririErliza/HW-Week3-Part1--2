@@ -32,3 +32,10 @@
     right: 50%;
 
 }
+
+.container div span:nth-child(2) {
+    position: absolute;
+    top: -40%;
+    right: 50%;
+
+}
