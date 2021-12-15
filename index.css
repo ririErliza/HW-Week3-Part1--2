@@ -45,3 +45,9 @@
     right: -40%;
     top: 40%;
 }
+
+.container div:nth-child(1) span:nth-child(4) {
+    position: absolute;
+    right: 120%;
+    top: 40%;
+}
